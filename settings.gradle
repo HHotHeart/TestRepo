@@ -1,4 +1,4 @@
 include ':app'
-rootProject.name = "TestRepo"
+rootProject.name = "test-repo"
 include ':modela'
 include ':modelb'
